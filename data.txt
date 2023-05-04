@@ -1,0 +1,41 @@
+<div class="topimghead">
+        <div class="headdiv">
+            <header class="fixedbar">
+                <div class="logoimg">
+                    <img src="logo.svg" >
+                </div>
+    
+                <ul>
+                    <li><a href="#" >ModelS</a></li>
+                    <li><a href="#" >Model3</a></li>
+                    <li><a href="#" >ModelX</a></li>
+                    <li><a href="#" >ModelY</a></li>
+                    <li><a href="#" >Solar Roof</a></li>
+                    <li><a href="#" >Solar Panel</a></li>
+                          
+                </ul>
+        
+                <nav>
+                    <ul>
+                        <li><a href="#" >Shop</a></li>
+                        <li><a href="#" >Account</a></li>
+                        <li><a href="#" >Menu</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div class="divA1different">
+                <h1>Model 3</h1>
+                <p>Order Online for touchless delivery</p>
+            </div>
+    
+            <div class="divA2different">
+                <div class="divA2a">
+                    <p>CUSTOM ORDER</p>
+                </div>
+    
+                <div class="divA2b">
+                    <p>EXISTING INVENTORY</p>
+                </div>
+            </div>
+        </div>
+    </div>
